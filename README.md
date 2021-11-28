@@ -1,4 +1,4 @@
-# js-tutrial
+# js-tutorial
 This is my own tutorial for JavaScript coding.
 
 ## References
