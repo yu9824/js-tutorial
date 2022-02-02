@@ -20,10 +20,10 @@ This is my own tutorial for JavaScript coding.
 > 
 > varはほとんどすべてのケースでletやconstに置き換えが可能です。 constは再代入できない変数を定義するキーワードです。再代入を禁止することで、ミスから発生するバグを減らすことが期待できます。 このため変数を宣言する場合には、まずconstで定義できないかを検討し、できない場合はletを使うことを推奨しています。
 > 
-> [値の評価と表示](https://jsprimer.net/basic/read-eval-print/#conclusion)
+> ### [値の評価と表示](https://jsprimer.net/basic/read-eval-print/#conclusion)
 > 略
 > 
-> [データ型とリテラル](https://jsprimer.net/basic/data-type/#data-type-summary)
+> ### [データ型とリテラル](https://jsprimer.net/basic/data-type/#data-type-summary)
 > この章では、データ型とリテラルについて学びました。
 > 
 > - 7種類のプリミティブ型とオブジェクトがある
